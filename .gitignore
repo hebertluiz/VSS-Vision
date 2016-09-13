@@ -23,9 +23,15 @@ Calibration/*.o
 *.a
 *.lib
 
+# Junk files
+*.md~
+*.md.swp
+*.vscode/.browse.VC.*
+*.pb.cc
+*.pb.h
+
 # Executables
 *.exe
 *.out
 *.app
-VSS-Vision
-Calibration/Calibration
+src/VSS-Vision
